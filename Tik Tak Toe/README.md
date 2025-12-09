@@ -20,11 +20,8 @@
 ### 🖥️ Home Screen
 
 <p align="center">
-  <img src="Tik Tak Toe/logo1.png" alt="Project Logo" width="300">
+  <img src="./logo1.png" alt="Project Logo" width="700">
 </p>
-
----
-
 
 ---
 
