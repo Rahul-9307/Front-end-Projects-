@@ -18,9 +18,13 @@
 ## 🔥 3D Animated Preview  
 
 ### 🖥️ Home Screen
+
 <p align="center">
-  <img src="https://your-image-link-1.png" alt="Home Screen" width="600">
+  <img src="Tik Tak Toe/logo1.png" alt="Project Logo" width="300">
 </p>
+
+---
+
 
 ---
 
